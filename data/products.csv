@@ -1,0 +1,301 @@
+product_id,sku_code,product_name,category_id,brand_name,cost_price,mrp,created_at
+1,SKU-ELEC-001,Noise Wireless Earbuds (Pro),1,Noise,1366.3,1784.14,2026-11-21 06:31:36
+2,SKU-ELEC-002,Noise Smart Plug WiFi (Select),1,Noise,710.8,1008.46,2026-11-21 06:31:36
+3,SKU-ELEC-003,BoAt Bluetooth Smartwatch (Premium),1,BoAt,1315.54,1961.22,2026-11-21 06:31:36
+4,SKU-ELEC-004,Zebronics Hair Dryer 1200W (Select),1,Zebronics,2091.01,2989.48,2026-11-21 06:31:36
+5,SKU-ELEC-005,Portronics Beard Trimmer Pro (Classic),1,Portronics,3499.05,4597.27,2026-11-21 06:31:36
+6,SKU-ELEC-006,Bajaj LED Desk Lamp (Pro),1,Bajaj,995.24,1625.11,2026-11-21 06:31:36
+7,SKU-ELEC-007,Havells Bluetooth Smartwatch (Classic),1,Havells,1926.7,2685.03,2026-11-21 06:31:36
+8,SKU-ELEC-008,Havells USB-C Hub Multi-Port (Pro),1,Havells,3699.58,5704.36,2026-11-21 06:31:36
+9,SKU-ELEC-009,Noise Mechanical Keyboard RGB (Ultra),1,Noise,677.02,925.67,2026-11-21 06:31:36
+10,SKU-ELEC-010,Havells USB-C Hub Multi-Port (Premium),1,Havells,3273.97,4152.47,2026-11-21 06:31:36
+11,SKU-ELEC-011,Zebronics Beard Trimmer Pro (Pro),1,Zebronics,4438.67,7066.93,2026-11-21 06:31:36
+12,SKU-ELEC-012,Noise Immersion Water Heater (Pro),1,Noise,2231.65,3534.14,2026-11-21 06:31:36
+13,SKU-ELEC-013,Fire-Boltt LED Desk Lamp (Pro),1,Fire-Boltt,1219.45,1654.54,2026-11-21 06:31:36
+14,SKU-ELEC-014,Noise USB-C Hub Multi-Port (Premium),1,Noise,2566.68,3459.69,2026-11-21 06:31:36
+15,SKU-ELEC-015,Crompton Immersion Water Heater (Pro),1,Crompton,4456.52,6711.52,2026-11-21 06:31:36
+16,SKU-ELEC-016,Zebronics Smart Plug WiFi (Pro),1,Zebronics,3847.84,6004.17,2026-11-21 06:31:36
+17,SKU-ELEC-017,Zebronics Wireless Mouse Ergonomic (Classic),1,Zebronics,3690.94,5205.95,2026-11-21 06:31:36
+18,SKU-ELEC-018,Noise Power Bank 20000mAh (Select),1,Noise,3986.93,5485.5,2026-11-21 06:31:36
+19,SKU-ELEC-019,Crompton Immersion Water Heater (Ultra),1,Crompton,942.92,1231.31,2026-11-21 06:31:36
+20,SKU-ELEC-020,Portronics Hair Dryer 1200W (Select),1,Portronics,2128.0,3156.7,2026-11-21 06:31:36
+21,SKU-ELEC-021,Havells Power Bank 20000mAh (Premium),1,Havells,2464.53,3170.28,2026-11-21 06:31:36
+22,SKU-ELEC-022,BoAt Wireless Mouse Ergonomic (Classic),1,BoAt,984.29,1293.35,2026-11-21 06:31:36
+23,SKU-ELEC-023,Bajaj USB-C Hub Multi-Port (Classic),1,Bajaj,1946.78,2897.5,2026-11-21 06:31:36
+24,SKU-ELEC-024,Crompton Bluetooth Soundbar (Pro),1,Crompton,4379.98,6983.05,2026-11-21 06:31:36
+25,SKU-ELEC-025,BoAt Smart Plug WiFi (Classic),1,BoAt,3179.1,4656.71,2026-11-21 06:31:36
+26,SKU-ELEC-026,Portronics Beard Trimmer Pro (Pro),1,Portronics,812.94,1157.55,2026-11-21 06:31:36
+27,SKU-ELEC-027,Crompton Wireless Earbuds (Pro),1,Crompton,4383.34,6815.15,2026-11-21 06:31:36
+28,SKU-ELEC-028,Noise Wireless Mouse Ergonomic (Pro),1,Noise,3842.93,5584.03,2026-11-21 06:31:36
+29,SKU-ELEC-029,Zebronics Fast Charger 65W (Pro),1,Zebronics,3514.42,5151.27,2026-11-21 06:31:36
+30,SKU-ELEC-030,BoAt USB-C Hub Multi-Port (Pro),1,BoAt,2377.71,3078.53,2026-11-21 06:31:36
+31,SKU-ELEC-031,Havells Mechanical Keyboard RGB (Pro),1,Havells,1343.73,1809.13,2026-11-21 06:31:36
+32,SKU-ELEC-032,Noise Bluetooth Smartwatch (Ultra),1,Noise,3736.5,6132.32,2026-11-21 06:31:36
+33,SKU-ELEC-033,Fire-Boltt Fast Charger 65W (Ultra),1,Fire-Boltt,4279.42,5631.93,2026-11-21 06:31:36
+34,SKU-ELEC-034,Bajaj Power Bank 20000mAh (Select),1,Bajaj,3484.35,5316.93,2026-11-21 06:31:36
+35,SKU-ELEC-035,Portronics Immersion Water Heater (Pro),1,Portronics,2168.12,3159.02,2026-11-21 06:31:36
+36,SKU-ELEC-036,Noise Power Bank 20000mAh (Premium),1,Noise,615.71,774.82,2026-11-21 06:31:36
+37,SKU-ELEC-037,Zebronics USB-C Hub Multi-Port (Premium),1,Zebronics,379.84,582.35,2026-11-21 06:31:36
+38,SKU-ELEC-038,BoAt Power Bank 20000mAh (Classic),1,BoAt,4107.49,6546.74,2026-11-21 06:31:36
+39,SKU-ELEC-039,Noise Bluetooth Soundbar (Premium),1,Noise,1505.68,2174.45,2026-11-21 06:31:36
+40,SKU-ELEC-040,Fire-Boltt Hair Dryer 1200W (Select),1,Fire-Boltt,2741.28,3693.05,2026-11-21 06:31:36
+41,SKU-ELEC-041,Crompton Beard Trimmer Pro (Ultra),1,Crompton,1140.2,1469.46,2026-11-21 06:31:36
+42,SKU-ELEC-042,Bajaj LED Desk Lamp (Ultra),1,Bajaj,2056.07,3280.53,2026-11-21 06:31:36
+43,SKU-ELEC-043,BoAt Smart Plug WiFi (Classic),1,BoAt,601.54,927.14,2026-11-21 06:31:36
+44,SKU-ELEC-044,Noise Power Bank 20000mAh (Premium),1,Noise,1139.37,1628.67,2026-11-21 06:31:36
+45,SKU-ELEC-045,Bajaj Fast Charger 65W (Pro),1,Bajaj,2269.91,3631.39,2026-11-21 06:31:36
+46,SKU-ELEC-046,Noise Electric Kettle 1.5L (Select),1,Noise,756.32,1142.69,2026-11-21 06:31:36
+47,SKU-ELEC-047,BoAt Bluetooth Smartwatch (Premium),1,BoAt,1040.19,1502.3,2026-11-21 06:31:36
+48,SKU-ELEC-048,Zebronics Wireless Mouse Ergonomic (Ultra),1,Zebronics,4095.14,5388.61,2026-11-21 06:31:36
+49,SKU-ELEC-049,BoAt Immersion Water Heater (Pro),1,BoAt,4195.05,6561.28,2026-11-21 06:31:36
+50,SKU-ELEC-050,Portronics Immersion Water Heater (Select),1,Portronics,3096.77,4473.81,2026-11-21 06:31:36
+51,SKU-ELEC-051,Zebronics Gaming Headset (Premium),1,Zebronics,4370.14,6475.11,2026-11-21 06:31:36
+52,SKU-ELEC-052,BoAt Hair Dryer 1200W (Pro),1,BoAt,587.24,871.27,2026-11-21 06:31:36
+53,SKU-ELEC-053,Fire-Boltt Wireless Earbuds (Select),1,Fire-Boltt,682.46,903.8,2026-11-21 06:31:36
+54,SKU-ELEC-054,Noise Smart Plug WiFi (Premium),1,Noise,2025.67,3295.03,2026-11-21 06:31:36
+55,SKU-ELEC-055,Zebronics USB-C Hub Multi-Port (Select),1,Zebronics,514.93,660.55,2026-11-21 06:31:36
+56,SKU-ELEC-056,Havells Mechanical Keyboard RGB (Pro),1,Havells,1197.68,1840.21,2026-11-21 06:31:36
+57,SKU-ELEC-057,Zebronics Gaming Headset (Ultra),1,Zebronics,893.14,1347.03,2026-11-21 06:31:36
+58,SKU-ELEC-058,Crompton LED Desk Lamp (Classic),1,Crompton,388.66,582.39,2026-11-21 06:31:36
+59,SKU-ELEC-059,Noise Bluetooth Smartwatch (Select),1,Noise,1234.59,1674.2,2026-11-21 06:31:36
+60,SKU-ELEC-060,Havells Mechanical Keyboard RGB (Classic),1,Havells,3998.97,5589.8,2026-11-21 06:31:36
+61,SKU-ELEC-061,Fire-Boltt Electric Kettle 1.5L (Select),1,Fire-Boltt,3269.69,4887.11,2026-11-21 06:31:36
+62,SKU-ELEC-062,BoAt Smart Plug WiFi (Select),1,BoAt,1592.42,2413.08,2026-11-21 06:31:36
+63,SKU-ELEC-063,Fire-Boltt Gaming Headset (Classic),1,Fire-Boltt,4042.31,6253.32,2026-11-21 06:31:36
+64,SKU-ELEC-064,Fire-Boltt Gaming Headset (Pro),1,Fire-Boltt,2860.04,4396.01,2026-11-21 06:31:36
+65,SKU-ELEC-065,Zebronics Smart Plug WiFi (Pro),1,Zebronics,2447.45,3305.16,2026-11-21 06:31:36
+66,SKU-ELEC-066,BoAt Bluetooth Smartwatch (Ultra),1,BoAt,3791.79,4806.6,2026-11-21 06:31:36
+67,SKU-ELEC-067,Havells Beard Trimmer Pro (Premium),1,Havells,2994.02,4056.24,2026-11-21 06:31:36
+68,SKU-ELEC-068,Crompton Bluetooth Soundbar (Ultra),1,Crompton,2677.76,3467.03,2026-11-21 06:31:36
+69,SKU-ELEC-069,Fire-Boltt Bluetooth Soundbar (Classic),1,Fire-Boltt,3813.57,5655.54,2026-11-21 06:31:36
+70,SKU-ELEC-070,Fire-Boltt Immersion Water Heater (Premium),1,Fire-Boltt,523.59,730.86,2026-11-21 06:31:36
+71,SKU-ELEC-071,BoAt Mechanical Keyboard RGB (Pro),1,BoAt,1221.82,1649.23,2026-11-21 06:31:36
+72,SKU-ELEC-072,Noise LED Desk Lamp (Select),1,Noise,4019.16,5677.27,2026-11-21 06:31:36
+73,SKU-ELEC-073,Fire-Boltt Mechanical Keyboard RGB (Premium),1,Fire-Boltt,3938.11,6460.4,2026-11-21 06:31:36
+74,SKU-ELEC-074,Fire-Boltt Mechanical Keyboard RGB (Ultra),1,Fire-Boltt,452.86,699.5,2026-11-21 06:31:36
+75,SKU-ELEC-075,Havells Beard Trimmer Pro (Ultra),1,Havells,3679.28,5870.75,2026-11-21 06:31:36
+76,SKU-FMCG-001,Amul Basmati Rice 5kg (Premium),2,Amul,757.57,916.04,2026-11-21 06:31:36
+77,SKU-FMCG-002,Tata Sampann Dark Chocolate Bar 100g (Ultra),2,Tata Sampann,246.3,344.94,2026-11-21 06:31:36
+78,SKU-FMCG-003,Catch Turmeric Powder 200g (Pro),2,Catch,787.59,1114.64,2026-11-21 06:31:36
+79,SKU-FMCG-004,Amul Chana Dal 1kg (Premium),2,Amul,405.61,509.13,2026-11-21 06:31:36
+80,SKU-FMCG-005,Fortune Cookies Butter Crunch 300g (Pro),2,Fortune,362.79,477.99,2026-11-21 06:31:36
+81,SKU-FMCG-006,Britannia Turmeric Powder 200g (Classic),2,Britannia,149.38,215.41,2026-11-21 06:31:36
+82,SKU-FMCG-007,Aashirvaad Cashews Whole 250g (Pro),2,Aashirvaad,79.62,106.78,2026-11-21 06:31:36
+83,SKU-FMCG-008,Everest Green Tea Bags 25s (Pro),2,Everest,439.94,636.04,2026-11-21 06:31:36
+84,SKU-FMCG-009,Fortune Garam Masala 100g (Select),2,Fortune,217.02,258.68,2026-11-21 06:31:36
+85,SKU-FMCG-010,MDH Chana Dal 1kg (Select),2,MDH,882.65,1169.85,2026-11-21 06:31:36
+86,SKU-FMCG-011,Amul Turmeric Powder 200g (Ultra),2,Amul,108.33,147.26,2026-11-21 06:31:36
+87,SKU-FMCG-012,Everest Cashews Whole 250g (Pro),2,Everest,645.37,783.25,2026-11-21 06:31:36
+88,SKU-FMCG-013,Saffola Oats Instant Pouch 1kg (Pro),2,Saffola,648.54,822.39,2026-11-21 06:31:36
+89,SKU-FMCG-014,Saffola Oats Instant Pouch 1kg (Premium),2,Saffola,218.62,297.22,2026-11-21 06:31:36
+90,SKU-FMCG-015,MDH Almonds California 250g (Premium),2,MDH,602.04,759.33,2026-11-21 06:31:36
+91,SKU-FMCG-016,Britannia Dark Chocolate Bar 100g (Classic),2,Britannia,320.01,395.77,2026-11-21 06:31:36
+92,SKU-FMCG-017,Parle Cashews Whole 250g (Pro),2,Parle,465.81,605.27,2026-11-21 06:31:36
+93,SKU-FMCG-018,Amul Oats Instant Pouch 1kg (Ultra),2,Amul,763.33,1098.55,2026-11-21 06:31:36
+94,SKU-FMCG-019,Aashirvaad Almonds California 250g (Classic),2,Aashirvaad,301.83,410.26,2026-11-21 06:31:36
+95,SKU-FMCG-020,Parle Turmeric Powder 200g (Classic),2,Parle,785.67,1086.43,2026-11-21 06:31:36
+96,SKU-FMCG-021,Saffola Cow Ghee 500ml (Premium),2,Saffola,178.36,212.69,2026-11-21 06:31:36
+97,SKU-FMCG-022,Catch Cashews Whole 250g (Classic),2,Catch,457.15,648.81,2026-11-21 06:31:36
+98,SKU-FMCG-023,Parle Cow Ghee 500ml (Ultra),2,Parle,492.41,613.48,2026-11-21 06:31:36
+99,SKU-FMCG-024,Tata Sampann Organic Jaggery Powder 1kg (Classic),2,Tata Sampann,749.47,928.66,2026-11-21 06:31:36
+100,SKU-FMCG-025,Britannia Pure Honey 500g (Classic),2,Britannia,549.45,784.46,2026-11-21 06:31:36
+101,SKU-FMCG-026,Fortune Pure Honey 500g (Premium),2,Fortune,770.28,1047.77,2026-11-21 06:31:36
+102,SKU-FMCG-027,Britannia Cashews Whole 250g (Pro),2,Britannia,904.79,1285.42,2026-11-21 06:31:36
+103,SKU-FMCG-028,Parle Dark Chocolate Bar 100g (Select),2,Parle,431.2,614.4,2026-11-21 06:31:36
+104,SKU-FMCG-029,Catch Organic Jaggery Powder 1kg (Premium),2,Catch,718.01,939.27,2026-11-21 06:31:36
+105,SKU-FMCG-030,Saffola Cookies Butter Crunch 300g (Premium),2,Saffola,805.08,1010.27,2026-11-21 06:31:36
+106,SKU-FMCG-031,Britannia Pure Honey 500g (Premium),2,Britannia,293.51,352.48,2026-11-21 06:31:36
+107,SKU-FMCG-032,Saffola Cow Ghee 500ml (Pro),2,Saffola,348.94,495.88,2026-11-21 06:31:36
+108,SKU-FMCG-033,Fortune Sharbati Atta 5kg (Premium),2,Fortune,254.29,347.71,2026-11-21 06:31:36
+109,SKU-FMCG-034,Amul Sunlite Refined Oil 1L (Ultra),2,Amul,413.88,549.01,2026-11-21 06:31:36
+110,SKU-FMCG-035,MDH Chana Dal 1kg (Premium),2,MDH,798.77,1026.55,2026-11-21 06:31:36
+111,SKU-FMCG-036,Parle Green Tea Bags 25s (Classic),2,Parle,820.34,1137.57,2026-11-21 06:31:36
+112,SKU-FMCG-037,MDH Pure Honey 500g (Classic),2,MDH,898.18,1132.27,2026-11-21 06:31:36
+113,SKU-FMCG-038,MDH Dark Chocolate Bar 100g (Ultra),2,MDH,532.09,733.41,2026-11-21 06:31:36
+114,SKU-FMCG-039,Parle Organic Jaggery Powder 1kg (Premium),2,Parle,486.85,610.36,2026-11-21 06:31:36
+115,SKU-FMCG-040,Catch Chana Dal 1kg (Ultra),2,Catch,349.2,476.09,2026-11-21 06:31:36
+116,SKU-FMCG-041,MDH Green Tea Bags 25s (Premium),2,MDH,805.66,1150.71,2026-11-21 06:31:36
+117,SKU-FMCG-042,Parle Oats Instant Pouch 1kg (Classic),2,Parle,865.77,1159.97,2026-11-21 06:31:36
+118,SKU-FMCG-043,Tata Sampann Sunlite Refined Oil 1L (Ultra),2,Tata Sampann,167.81,218.93,2026-11-21 06:31:36
+119,SKU-FMCG-044,Tata Sampann Basmati Rice 5kg (Ultra),2,Tata Sampann,341.25,444.57,2026-11-21 06:31:36
+120,SKU-FMCG-045,Everest Cookies Butter Crunch 300g (Ultra),2,Everest,296.82,426.48,2026-11-21 06:31:36
+121,SKU-FMCG-046,MDH Basmati Rice 5kg (Classic),2,MDH,470.63,650.52,2026-11-21 06:31:36
+122,SKU-FMCG-047,Tata Sampann Turmeric Powder 200g (Premium),2,Tata Sampann,633.38,880.99,2026-11-21 06:31:36
+123,SKU-FMCG-048,Tata Sampann Cookies Butter Crunch 300g (Classic),2,Tata Sampann,904.4,1115.87,2026-11-21 06:31:36
+124,SKU-FMCG-049,Tata Sampann Cashews Whole 250g (Premium),2,Tata Sampann,260.88,341.19,2026-11-21 06:31:36
+125,SKU-FMCG-050,Fortune Cashews Whole 250g (Premium),2,Fortune,465.86,581.95,2026-11-21 06:31:36
+126,SKU-FMCG-051,Everest Sharbati Atta 5kg (Select),2,Everest,594.56,821.65,2026-11-21 06:31:36
+127,SKU-FMCG-052,Fortune Cookies Butter Crunch 300g (Premium),2,Fortune,918.07,1110.12,2026-11-21 06:31:36
+128,SKU-FMCG-053,Tata Sampann Organic Jaggery Powder 1kg (Pro),2,Tata Sampann,566.1,806.79,2026-11-21 06:31:36
+129,SKU-FMCG-054,MDH Garam Masala 100g (Premium),2,MDH,113.78,155.48,2026-11-21 06:31:36
+130,SKU-FMCG-055,Amul Sunlite Refined Oil 1L (Pro),2,Amul,814.52,1093.18,2026-11-21 06:31:36
+131,SKU-FMCG-056,Fortune Cookies Butter Crunch 300g (Select),2,Fortune,753.28,959.49,2026-11-21 06:31:36
+132,SKU-FMCG-057,MDH Almonds California 250g (Pro),2,MDH,107.41,145.52,2026-11-21 06:31:36
+133,SKU-FMCG-058,Tata Sampann Dark Chocolate Bar 100g (Ultra),2,Tata Sampann,789.21,953.76,2026-11-21 06:31:36
+134,SKU-FMCG-059,Everest Almonds California 250g (Ultra),2,Everest,685.11,888.99,2026-11-21 06:31:36
+135,SKU-FMCG-060,Britannia Almonds California 250g (Pro),2,Britannia,602.4,860.41,2026-11-21 06:31:36
+136,SKU-FMCG-061,Catch Pure Honey 500g (Ultra),2,Catch,792.29,1061.64,2026-11-21 06:31:36
+137,SKU-FMCG-062,Everest Dark Chocolate Bar 100g (Premium),2,Everest,796.81,958.88,2026-11-21 06:31:36
+138,SKU-FMCG-063,Catch Cow Ghee 500ml (Ultra),2,Catch,560.71,762.8,2026-11-21 06:31:36
+139,SKU-FMCG-064,Everest Chana Dal 1kg (Ultra),2,Everest,815.11,1001.85,2026-11-21 06:31:36
+140,SKU-FMCG-065,Amul Turmeric Powder 200g (Pro),2,Amul,353.01,500.46,2026-11-21 06:31:36
+141,SKU-FMCG-066,Saffola Oats Instant Pouch 1kg (Classic),2,Saffola,512.55,631.25,2026-11-21 06:31:36
+142,SKU-FMCG-067,Amul Green Tea Bags 25s (Ultra),2,Amul,487.16,674.57,2026-11-21 06:31:36
+143,SKU-FMCG-068,Catch Almonds California 250g (Ultra),2,Catch,450.6,533.81,2026-11-21 06:31:36
+144,SKU-FMCG-069,Saffola Cow Ghee 500ml (Ultra),2,Saffola,671.07,847.34,2026-11-21 06:31:36
+145,SKU-FMCG-070,Parle Turmeric Powder 200g (Ultra),2,Parle,545.89,694.82,2026-11-21 06:31:36
+146,SKU-FMCG-071,Britannia Turmeric Powder 200g (Pro),2,Britannia,681.08,853.49,2026-11-21 06:31:36
+147,SKU-FMCG-072,Saffola Cow Ghee 500ml (Classic),2,Saffola,697.76,882.8,2026-11-21 06:31:36
+148,SKU-FMCG-073,Britannia Cookies Butter Crunch 300g (Premium),2,Britannia,218.34,301.18,2026-11-21 06:31:36
+149,SKU-FMCG-074,Saffola Green Tea Bags 25s (Select),2,Saffola,928.83,1227.59,2026-11-21 06:31:36
+150,SKU-FMCG-075,Saffola Sunlite Refined Oil 1L (Premium),2,Saffola,313.1,399.97,2026-11-21 06:31:36
+151,SKU-CARE-001,Wow Skin Science Purifying Neem Face Wash 150ml (Select),3,Wow Skin Science,139.05,183.93,2026-11-21 06:31:36
+152,SKU-CARE-002,Himalaya Sunscreen Matte Gel SPF50 50g (Pro),3,Himalaya,472.99,644.75,2026-11-21 06:31:36
+153,SKU-CARE-003,Patanjali Onion Hair Oil 200ml (Classic),3,Patanjali,400.83,615.15,2026-11-21 06:31:36
+154,SKU-CARE-004,Patanjali Soft Light Moisturizer 200ml (Premium),3,Patanjali,629.82,898.27,2026-11-21 06:31:36
+155,SKU-CARE-005,Patanjali Onion Hair Oil 200ml (Classic),3,Patanjali,299.41,400.32,2026-11-21 06:31:36
+156,SKU-CARE-006,Himalaya Bio Dandelion Ageless Serum 40ml (Premium),3,Himalaya,539.52,957.41,2026-11-21 06:31:36
+157,SKU-CARE-007,Mamaearth Herbal Sandalwood Soap 125g (Classic),3,Mamaearth,391.47,590.37,2026-11-21 06:31:36
+158,SKU-CARE-008,Khadi Natural Charcoal Peel Off Mask 100g (Select),3,Khadi Natural,287.52,504.38,2026-11-21 06:31:36
+159,SKU-CARE-009,Wow Skin Science Body Butter Cocoa Deep Nourish 200g (Select),3,Wow Skin Science,644.17,935.78,2026-11-21 06:31:36
+160,SKU-CARE-010,Himalaya Vitamin C Face Toner 200ml (Classic),3,Himalaya,619.34,869.49,2026-11-21 06:31:36
+161,SKU-CARE-011,Khadi Natural Apple Cider Vinegar Shampoo 300ml (Classic),3,Khadi Natural,156.88,217.58,2026-11-21 06:31:36
+162,SKU-CARE-012,Mamaearth Bio Dandelion Ageless Serum 40ml (Classic),3,Mamaearth,303.98,499.95,2026-11-21 06:31:36
+163,SKU-CARE-013,Patanjali Apple Cider Vinegar Shampoo 300ml (Classic),3,Patanjali,200.41,331.37,2026-11-21 06:31:36
+164,SKU-CARE-014,Patanjali Onion Hair Oil 200ml (Premium),3,Patanjali,605.49,1025.65,2026-11-21 06:31:36
+165,SKU-CARE-015,Khadi Natural Red Ayurvedic Toothpaste 150g (Classic),3,Khadi Natural,383.57,622.85,2026-11-21 06:31:36
+166,SKU-CARE-016,Wow Skin Science Body Butter Cocoa Deep Nourish 200g (Premium),3,Wow Skin Science,106.77,147.66,2026-11-21 06:31:36
+167,SKU-CARE-017,Wow Skin Science Vitamin C Face Toner 200ml (Select),3,Wow Skin Science,603.9,917.67,2026-11-21 06:31:36
+168,SKU-CARE-018,Patanjali Rose Water Hydrating Mist 120ml (Pro),3,Patanjali,474.34,840.22,2026-11-21 06:31:36
+169,SKU-CARE-019,Patanjali Aloe Vera Gel Organic 250g (Classic),3,Patanjali,414.85,723.79,2026-11-21 06:31:36
+170,SKU-CARE-020,Nivea India Vitamin C Face Toner 200ml (Pro),3,Nivea India,80.13,113.34,2026-11-21 06:31:36
+171,SKU-CARE-021,Himalaya Charcoal Peel Off Mask 100g (Pro),3,Himalaya,402.1,676.15,2026-11-21 06:31:36
+172,SKU-CARE-022,Biotique Aloe Vera Gel Organic 250g (Select),3,Biotique,446.13,784.31,2026-11-21 06:31:36
+173,SKU-CARE-023,Biotique Vitamin C Face Toner 200ml (Ultra),3,Biotique,436.35,674.54,2026-11-21 06:31:36
+174,SKU-CARE-024,Mamaearth Aloe Vera Gel Organic 250g (Pro),3,Mamaearth,303.88,443.83,2026-11-21 06:31:36
+175,SKU-CARE-025,Mamaearth Body Butter Cocoa Deep Nourish 200g (Premium),3,Mamaearth,257.94,424.79,2026-11-21 06:31:36
+176,SKU-CARE-026,Wow Skin Science Anti-Dandruff Tea Tree Lotion 100ml (Ultra),3,Wow Skin Science,540.94,852.01,2026-11-21 06:31:36
+177,SKU-CARE-027,Patanjali Onion Hair Oil 200ml (Pro),3,Patanjali,212.65,288.77,2026-11-21 06:31:36
+178,SKU-CARE-028,Dabur Body Butter Cocoa Deep Nourish 200g (Select),3,Dabur,547.58,712.17,2026-11-21 06:31:36
+179,SKU-CARE-029,Patanjali Red Ayurvedic Toothpaste 150g (Classic),3,Patanjali,174.74,258.77,2026-11-21 06:31:36
+180,SKU-CARE-030,Patanjali Anti-Dandruff Tea Tree Lotion 100ml (Ultra),3,Patanjali,509.59,714.33,2026-11-21 06:31:36
+181,SKU-CARE-031,Biotique Natural Lip Balm Pack of 2 (Pro),3,Biotique,321.3,529.86,2026-11-21 06:31:36
+182,SKU-CARE-032,Mamaearth Purifying Neem Face Wash 150ml (Select),3,Mamaearth,532.6,881.4,2026-11-21 06:31:36
+183,SKU-CARE-033,Wow Skin Science Sunscreen Matte Gel SPF50 50g (Classic),3,Wow Skin Science,388.07,522.58,2026-11-21 06:31:36
+184,SKU-CARE-034,Mamaearth Aloe Vera Gel Organic 250g (Classic),3,Mamaearth,443.91,611.26,2026-11-21 06:31:36
+185,SKU-CARE-035,Wow Skin Science Sunscreen Matte Gel SPF50 50g (Pro),3,Wow Skin Science,308.06,474.8,2026-11-21 06:31:36
+186,SKU-CARE-036,Patanjali Herbal Sandalwood Soap 125g (Ultra),3,Patanjali,387.49,578.05,2026-11-21 06:31:36
+187,SKU-CARE-037,Biotique Body Butter Cocoa Deep Nourish 200g (Classic),3,Biotique,226.6,384.09,2026-11-21 06:31:36
+188,SKU-CARE-038,Dabur Soft Light Moisturizer 200ml (Select),3,Dabur,221.3,287.97,2026-11-21 06:31:36
+189,SKU-CARE-039,Wow Skin Science Body Butter Cocoa Deep Nourish 200g (Select),3,Wow Skin Science,404.26,658.93,2026-11-21 06:31:36
+190,SKU-CARE-040,Biotique Aloe Vera Gel Organic 250g (Select),3,Biotique,348.34,510.74,2026-11-21 06:31:36
+191,SKU-CARE-041,Dabur Aloe Vera Gel Organic 250g (Pro),3,Dabur,573.72,1027.18,2026-11-21 06:31:36
+192,SKU-CARE-042,Khadi Natural Vitamin C Face Toner 200ml (Ultra),3,Khadi Natural,201.63,340.31,2026-11-21 06:31:36
+193,SKU-CARE-043,Himalaya Soft Light Moisturizer 200ml (Ultra),3,Himalaya,477.56,814.58,2026-11-21 06:31:36
+194,SKU-CARE-044,Dabur Anti-Dandruff Tea Tree Lotion 100ml (Premium),3,Dabur,354.77,467.77,2026-11-21 06:31:36
+195,SKU-CARE-045,Nivea India Body Butter Cocoa Deep Nourish 200g (Classic),3,Nivea India,576.4,876.22,2026-11-21 06:31:36
+196,SKU-CARE-046,Patanjali Purifying Neem Face Wash 150ml (Premium),3,Patanjali,304.84,496.09,2026-11-21 06:31:36
+197,SKU-CARE-047,Biotique Onion Hair Oil 200ml (Ultra),3,Biotique,522.19,748.04,2026-11-21 06:31:36
+198,SKU-CARE-048,Dabur Anti-Dandruff Tea Tree Lotion 100ml (Classic),3,Dabur,563.28,972.32,2026-11-21 06:31:36
+199,SKU-CARE-049,Dabur Soft Light Moisturizer 200ml (Ultra),3,Dabur,575.34,758.27,2026-11-21 06:31:36
+200,SKU-CARE-050,Mamaearth Herbal Sandalwood Soap 125g (Pro),3,Mamaearth,648.49,1085.17,2026-11-21 06:31:36
+201,SKU-CARE-051,Dabur Onion Hair Oil 200ml (Classic),3,Dabur,324.55,534.53,2026-11-21 06:31:36
+202,SKU-CARE-052,Himalaya Purifying Neem Face Wash 150ml (Pro),3,Himalaya,530.74,767.81,2026-11-21 06:31:36
+203,SKU-CARE-053,Nivea India Red Ayurvedic Toothpaste 150g (Premium),3,Nivea India,207.86,313.04,2026-11-21 06:31:36
+204,SKU-CARE-054,Biotique Bio Dandelion Ageless Serum 40ml (Premium),3,Biotique,111.2,192.98,2026-11-21 06:31:36
+205,SKU-CARE-055,Khadi Natural Aloe Vera Gel Organic 250g (Select),3,Khadi Natural,148.72,227.63,2026-11-21 06:31:36
+206,SKU-CARE-056,Wow Skin Science Aloe Vera Gel Organic 250g (Pro),3,Wow Skin Science,455.1,796.18,2026-11-21 06:31:36
+207,SKU-CARE-057,Patanjali Natural Lip Balm Pack of 2 (Pro),3,Patanjali,461.4,636.26,2026-11-21 06:31:36
+208,SKU-CARE-058,Patanjali Soft Light Moisturizer 200ml (Select),3,Patanjali,240.01,427.46,2026-11-21 06:31:36
+209,SKU-CARE-059,Wow Skin Science Aloe Vera Gel Organic 250g (Pro),3,Wow Skin Science,181.54,270.92,2026-11-21 06:31:36
+210,SKU-CARE-060,Patanjali Onion Hair Oil 200ml (Premium),3,Patanjali,288.1,426.24,2026-11-21 06:31:36
+211,SKU-CARE-061,Wow Skin Science Rose Water Hydrating Mist 120ml (Pro),3,Wow Skin Science,77.83,133.48,2026-11-21 06:31:36
+212,SKU-CARE-062,Dabur Apple Cider Vinegar Shampoo 300ml (Classic),3,Dabur,396.07,650.7,2026-11-21 06:31:36
+213,SKU-CARE-063,Himalaya Natural Lip Balm Pack of 2 (Select),3,Himalaya,500.93,859.81,2026-11-21 06:31:36
+214,SKU-CARE-064,Wow Skin Science Charcoal Peel Off Mask 100g (Premium),3,Wow Skin Science,420.13,620.18,2026-11-21 06:31:36
+215,SKU-CARE-065,Khadi Natural Vitamin C Face Toner 200ml (Pro),3,Khadi Natural,461.49,766.29,2026-11-21 06:31:36
+216,SKU-CARE-066,Biotique Anti-Dandruff Tea Tree Lotion 100ml (Classic),3,Biotique,593.49,963.34,2026-11-21 06:31:36
+217,SKU-CARE-067,Wow Skin Science Charcoal Peel Off Mask 100g (Ultra),3,Wow Skin Science,84.52,125.3,2026-11-21 06:31:36
+218,SKU-CARE-068,Biotique Onion Hair Oil 200ml (Pro),3,Biotique,256.13,386.18,2026-11-21 06:31:36
+219,SKU-CARE-069,Khadi Natural Bio Dandelion Ageless Serum 40ml (Select),3,Khadi Natural,577.73,856.73,2026-11-21 06:31:36
+220,SKU-CARE-070,Wow Skin Science Body Butter Cocoa Deep Nourish 200g (Premium),3,Wow Skin Science,215.33,368.72,2026-11-21 06:31:36
+221,SKU-CARE-071,Patanjali Charcoal Peel Off Mask 100g (Pro),3,Patanjali,501.74,737.24,2026-11-21 06:31:36
+222,SKU-CARE-072,Mamaearth Aloe Vera Gel Organic 250g (Classic),3,Mamaearth,147.34,262.74,2026-11-21 06:31:36
+223,SKU-CARE-073,Dabur Body Butter Cocoa Deep Nourish 200g (Select),3,Dabur,278.98,472.97,2026-11-21 06:31:36
+224,SKU-CARE-074,Himalaya Apple Cider Vinegar Shampoo 300ml (Select),3,Himalaya,137.3,203.79,2026-11-21 06:31:36
+225,SKU-CARE-075,Wow Skin Science Vitamin C Face Toner 200ml (Ultra),3,Wow Skin Science,546.11,966.69,2026-11-21 06:31:36
+226,SKU-FASH-001,Peter England Leather Formal Belt (Premium),4,Peter England,1656.71,3069.4,2026-11-21 06:31:36
+227,SKU-FASH-002,Allen Solly Graphic Print Tee Regular (Select),4,Allen Solly,926.39,1381.33,2026-11-21 06:31:36
+228,SKU-FASH-003,Flying Machine Graphic Print Tee Regular (Pro),4,Flying Machine,2175.78,3319.89,2026-11-21 06:31:36
+229,SKU-FASH-004,FabIndia Cotton Casual Shirt Regular Fit (Pro),4,FabIndia,3188.11,4863.39,2026-11-21 06:31:36
+230,SKU-FASH-005,W for Woman Graphic Print Tee Regular (Select),4,W for Woman,676.14,1179.78,2026-11-21 06:31:36
+231,SKU-FASH-006,Biba Embroidered Straight Kurti (Premium),4,Biba,2865.41,5374.65,2026-11-21 06:31:36
+232,SKU-FASH-007,Flying Machine Embroidered Straight Kurti (Ultra),4,Flying Machine,3022.03,4931.44,2026-11-21 06:31:36
+233,SKU-FASH-008,Allen Solly Printed Anarkali Kurti (Ultra),4,Allen Solly,1578.51,2531.1,2026-11-21 06:31:36
+234,SKU-FASH-009,Allen Solly Slim Fit Denim Jeans (Pro),4,Allen Solly,1869.84,3899.73,2026-11-21 06:31:36
+235,SKU-FASH-010,Allen Solly Cotton Casual Shirt Regular Fit (Ultra),4,Allen Solly,1085.57,2257.26,2026-11-21 06:31:36
+236,SKU-FASH-011,Flying Machine Slim Fit Denim Jeans (Premium),4,Flying Machine,2153.78,3958.96,2026-11-21 06:31:36
+237,SKU-FASH-012,FabIndia Cotton Casual Shirt Regular Fit (Pro),4,FabIndia,991.22,1518.4,2026-11-21 06:31:36
+238,SKU-FASH-013,W for Woman Slim Fit Denim Jeans (Select),4,W for Woman,884.9,1407.32,2026-11-21 06:31:36
+239,SKU-FASH-014,W for Woman Polo T-Shirt Breathable (Premium),4,W for Woman,2582.84,4745.68,2026-11-21 06:31:36
+240,SKU-FASH-015,Manyavar Formal Blazer Single Breasted (Premium),4,Manyavar,3163.58,5698.05,2026-11-21 06:31:36
+241,SKU-FASH-016,Raymond Slim Fit Denim Jeans (Classic),4,Raymond,664.87,1118.88,2026-11-21 06:31:36
+242,SKU-FASH-017,W for Woman Embroidered Straight Kurti (Pro),4,W for Woman,326.08,529.06,2026-11-21 06:31:36
+243,SKU-FASH-018,Raymond Canvas Casual Sneakers (Ultra),4,Raymond,1816.17,3513.71,2026-11-21 06:31:36
+244,SKU-FASH-019,Flying Machine Silk Dupatta Handcrafted (Pro),4,Flying Machine,1778.65,2705.12,2026-11-21 06:31:36
+245,SKU-FASH-020,W for Woman Embroidered Straight Kurti (Classic),4,W for Woman,2403.55,4904.9,2026-11-21 06:31:36
+246,SKU-FASH-021,Manyavar Silk Dupatta Handcrafted (Classic),4,Manyavar,457.61,806.01,2026-11-21 06:31:36
+247,SKU-FASH-022,Biba Ethnic Nehru Jacket (Classic),4,Biba,1711.59,3493.88,2026-11-21 06:31:36
+248,SKU-FASH-023,Peter England Graphic Print Tee Regular (Classic),4,Peter England,1220.57,1887.51,2026-11-21 06:31:36
+249,SKU-FASH-024,Raymond Formal Trousers Flat Front (Select),4,Raymond,2128.58,3845.13,2026-11-21 06:31:36
+250,SKU-FASH-025,Allen Solly Ethnic Nehru Jacket (Select),4,Allen Solly,1829.23,3191.85,2026-11-21 06:31:36
+251,SKU-FASH-026,Biba Slim Fit Denim Jeans (Classic),4,Biba,2770.15,5188.76,2026-11-21 06:31:36
+252,SKU-FASH-027,W for Woman Ethnic Nehru Jacket (Ultra),4,W for Woman,2873.23,4939.02,2026-11-21 06:31:36
+253,SKU-FASH-028,Flying Machine Ethnic Nehru Jacket (Ultra),4,Flying Machine,2410.47,3984.88,2026-11-21 06:31:36
+254,SKU-FASH-029,Allen Solly Leather Formal Belt (Pro),4,Allen Solly,1372.96,2127.01,2026-11-21 06:31:36
+255,SKU-FASH-030,Flying Machine Slim Fit Denim Jeans (Classic),4,Flying Machine,2708.77,4091.87,2026-11-21 06:31:36
+256,SKU-FASH-031,Peter England Canvas Casual Sneakers (Pro),4,Peter England,2650.37,4801.52,2026-11-21 06:31:36
+257,SKU-FASH-032,Allen Solly Leather Formal Belt (Classic),4,Allen Solly,1479.56,2985.52,2026-11-21 06:31:36
+258,SKU-FASH-033,Biba Formal Blazer Single Breasted (Classic),4,Biba,3107.72,5719.03,2026-11-21 06:31:36
+259,SKU-FASH-034,Allen Solly Slim Fit Denim Jeans (Select),4,Allen Solly,1761.64,2731.55,2026-11-21 06:31:36
+260,SKU-FASH-035,Flying Machine Printed Anarkali Kurti (Classic),4,Flying Machine,1302.33,2359.27,2026-11-21 06:31:36
+261,SKU-FASH-036,Peter England Cotton Pyjama Set Loungewear (Pro),4,Peter England,1956.37,3863.23,2026-11-21 06:31:36
+262,SKU-FASH-037,FabIndia Embroidered Straight Kurti (Pro),4,FabIndia,364.54,593.33,2026-11-21 06:31:36
+263,SKU-FASH-038,Manyavar Graphic Print Tee Regular (Pro),4,Manyavar,1304.99,2046.11,2026-11-21 06:31:36
+264,SKU-FASH-039,Raymond Embroidered Straight Kurti (Ultra),4,Raymond,483.19,933.34,2026-11-21 06:31:36
+265,SKU-FASH-040,FabIndia Slim Fit Denim Jeans (Select),4,FabIndia,908.19,1564.71,2026-11-21 06:31:36
+266,SKU-FASH-041,Allen Solly Linen Kurta Traditional (Pro),4,Allen Solly,1189.98,1976.38,2026-11-21 06:31:36
+267,SKU-FASH-042,Peter England Graphic Print Tee Regular (Classic),4,Peter England,734.29,1424.8,2026-11-21 06:31:36
+268,SKU-FASH-043,FabIndia Leather Formal Belt (Classic),4,FabIndia,1074.54,2020.41,2026-11-21 06:31:36
+269,SKU-FASH-044,Flying Machine Embroidered Straight Kurti (Ultra),4,Flying Machine,1489.42,2368.36,2026-11-21 06:31:36
+270,SKU-FASH-045,Peter England Polo T-Shirt Breathable (Ultra),4,Peter England,603.8,1141.69,2026-11-21 06:31:36
+271,SKU-FASH-046,Flying Machine Chino Shorts Stretchable (Pro),4,Flying Machine,412.62,704.31,2026-11-21 06:31:36
+272,SKU-FASH-047,FabIndia Cotton Casual Shirt Regular Fit (Premium),4,FabIndia,1160.14,1841.49,2026-11-21 06:31:36
+273,SKU-FASH-048,Raymond Cotton Pyjama Set Loungewear (Pro),4,Raymond,1125.19,1719.28,2026-11-21 06:31:36
+274,SKU-FASH-049,Flying Machine Canvas Casual Sneakers (Ultra),4,Flying Machine,793.03,1345.88,2026-11-21 06:31:36
+275,SKU-FASH-050,W for Woman Chino Shorts Stretchable (Select),4,W for Woman,2713.39,5356.31,2026-11-21 06:31:36
+276,SKU-FASH-051,Peter England Ethnic Nehru Jacket (Classic),4,Peter England,1553.76,2717.28,2026-11-21 06:31:36
+277,SKU-FASH-052,Peter England Formal Blazer Single Breasted (Pro),4,Peter England,1961.22,3574.73,2026-11-21 06:31:36
+278,SKU-FASH-053,Biba Formal Trousers Flat Front (Classic),4,Biba,1462.69,3039.51,2026-11-21 06:31:36
+279,SKU-FASH-054,Raymond Cotton Pyjama Set Loungewear (Select),4,Raymond,1623.48,3081.77,2026-11-21 06:31:36
+280,SKU-FASH-055,Allen Solly Slim Fit Denim Jeans (Ultra),4,Allen Solly,2745.89,4415.82,2026-11-21 06:31:36
+281,SKU-FASH-056,Biba Chino Shorts Stretchable (Classic),4,Biba,1435.64,2371.22,2026-11-21 06:31:36
+282,SKU-FASH-057,Allen Solly Printed Anarkali Kurti (Pro),4,Allen Solly,2555.02,3831.63,2026-11-21 06:31:36
+283,SKU-FASH-058,Peter England Chino Shorts Stretchable (Select),4,Peter England,846.2,1653.94,2026-11-21 06:31:36
+284,SKU-FASH-059,Allen Solly Canvas Casual Sneakers (Premium),4,Allen Solly,969.91,1498.69,2026-11-21 06:31:36
+285,SKU-FASH-060,W for Woman Linen Kurta Traditional (Select),4,W for Woman,726.38,1411.68,2026-11-21 06:31:36
+286,SKU-FASH-061,Peter England Linen Kurta Traditional (Ultra),4,Peter England,1634.74,2969.39,2026-11-21 06:31:36
+287,SKU-FASH-062,Flying Machine Leather Formal Belt (Select),4,Flying Machine,2157.54,4511.95,2026-11-21 06:31:36
+288,SKU-FASH-063,Allen Solly Formal Blazer Single Breasted (Pro),4,Allen Solly,720.8,1077.15,2026-11-21 06:31:36
+289,SKU-FASH-064,Flying Machine Leather Formal Belt (Pro),4,Flying Machine,2605.28,4779.19,2026-11-21 06:31:36
+290,SKU-FASH-065,Allen Solly Chino Shorts Stretchable (Classic),4,Allen Solly,1186.39,2068.76,2026-11-21 06:31:36
+291,SKU-FASH-066,FabIndia Polo T-Shirt Breathable (Pro),4,FabIndia,504.05,1014.03,2026-11-21 06:31:36
+292,SKU-FASH-067,Peter England Embroidered Straight Kurti (Select),4,Peter England,1760.64,3082.46,2026-11-21 06:31:36
+293,SKU-FASH-068,FabIndia Silk Dupatta Handcrafted (Select),4,FabIndia,2183.37,3622.19,2026-11-21 06:31:36
+294,SKU-FASH-069,Flying Machine Chino Shorts Stretchable (Premium),4,Flying Machine,3076.55,5361.93,2026-11-21 06:31:36
+295,SKU-FASH-070,Allen Solly Canvas Casual Sneakers (Classic),4,Allen Solly,1753.28,2738.91,2026-11-21 06:31:36
+296,SKU-FASH-071,W for Woman Canvas Casual Sneakers (Ultra),4,W for Woman,3173.68,5682.93,2026-11-21 06:31:36
+297,SKU-FASH-072,Raymond Polo T-Shirt Breathable (Pro),4,Raymond,2960.38,5038.04,2026-11-21 06:31:36
+298,SKU-FASH-073,Allen Solly Leather Formal Belt (Select),4,Allen Solly,432.91,805.25,2026-11-21 06:31:36
+299,SKU-FASH-074,Allen Solly Slim Fit Denim Jeans (Pro),4,Allen Solly,555.96,1051.29,2026-11-21 06:31:36
+300,SKU-FASH-075,Manyavar Formal Trousers Flat Front (Select),4,Manyavar,2829.98,4716.69,2026-11-21 06:31:36
